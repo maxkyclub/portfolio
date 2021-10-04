@@ -16,6 +16,9 @@ const Footer = () => {
                         >
                             LinkedIn
                         </a>
+
+                        <p> | </p>
+                        
                         <a
                             href="https://medium.com/@thanatornboonnak"
                             className={"transition-colors hover:text-yellow-500"}
