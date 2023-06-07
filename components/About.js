@@ -12,19 +12,19 @@ const About = () => {
                     </h1>
                     <div className="mt-6 text-gray-800 dark:text-white">
                         <p className="mb-4">
-                            Hello! My name is Thanatorn Boonnak. I am a Thailand-based software engineer.
+                            Hello! My name is Thanatorn Boonnak. I am a Earth-based software engineer.
                             I have a diverse set of skills, ranging from people to product. Communicative, mentoring, problem-sovlving skill. Web development, backend, system integration, chatbot, and social features. 
-                            Experienced in e-learning, healthcare, insurance, hospitality fields.
+                            Experienced in Finance, e-learning, healthcare, insurance, hospitality fields.
                         </p>  
                     </div>
                         <div className="mt-6 text-gray-800 dark:text-white">
                             <p class="px-4 py-1 text-sm text-white bg-red-600 border-transparent  hover:text-red-600 hover:bg-white font-semibold rounded-full border hover:border-red-200 focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2">
-                                NodeJS, PHP, ExpressJS, Laravel, HTML, CSS, JavaScript, ReactJS, NextJS, Tailwind
+                                JavaScript, TypeScript, NodeJS, PHP, ExpressJS, Laravel, HTML, CSS, ReactJS, NextJS, Tailwind
                             </p>
                         </div>
                         <div className="mt-1 text-gray-800 dark:text-white">
                             <p class="px-4 py-1 text-sm text-white bg-yellow-400 border-transparent  hover:text-yellow-400 hover:bg-white font-semibold rounded-full border hover:border-yellow-200 focus:outline-none focus:ring-2 focus:ring-purple-600 focus:ring-offset-2">
-                                MySQL, PostgreSQL, Elasticsearch, Kibana, AWS, GCP, Docker, REST 
+                                AWS, Azure, GCP, Docker, MySQL, PostgreSQL, Elasticsearch, Kibana, REST, JSON 
                             </p> 
                         </div>
                     </div>
